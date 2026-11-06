@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>[Paricia] · mes projets</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 640px; margin: 48px auto; padding: 0 16px; background: #f5f3f1; color: #040918; }
+    h1 { font-family: Georgia, serif; font-size: 40px; margin-bottom: 4px; }
+    .tag { display: inline-block; background: #f5f3f1; padding: 4px 12px; border-radius: 999px; margin: 4px 4px 0 0; }
+    a { color: #040918; }
+  </style>
+</head>
+<body>
+  <h1>[Paricia]</h1>
+  <p>[Je suis étudiante à Paris 1 et j'étudie la Stratégie d'Économie d'Entreprise.]</p>
+  <p><span class="tag">HTML</span><span class="tag">CSS</span><span class="tag">[Je suis passionnée des langues.]</span></p>
+  <h2>Mes projets</h2>
+  <ul>
+    <li><a href="[https://ai2a.appinventor.mit.edu/#15548346]">Mon jeu en Scratch</a></li>
+    <li>Mon appli App Inventor</li>
+  </ul>
+  <p>Membre de Women in Code.</p>
+</body>
+</html>
